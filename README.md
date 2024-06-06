@@ -27,7 +27,7 @@ $ npm install github:rahatool/persian-fonts
 Fonts will be copied to `node_modules/@raha.group/persian-fonts` directory.
 
 # Usage
-![Sample of خوش‌نویسی](//esm.sh/gh/rahatool/persian-fonts/sample.png)
+![Sample of خوش‌نویسی](https://esm.sh/gh/rahatool/persian-fonts/sample.png)
 ```html
 <html>
 	<head>
