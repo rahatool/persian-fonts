@@ -1,0 +1,28 @@
+{
+	"name": "@raha.group/persian-fonts",
+	"version": "1.0.3",
+	"description": "The most popular Persian fonts are included in this package.",
+	"dependencies": {},
+	"main": "main.css",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"persian",
+		"font"
+	],
+	"contributors": [
+		"Mahdi NezaratiZadeh"
+	],
+	"license": "CC-BY-SA-4.0",
+	"bugs": {
+		"url": "https://groups.google.com/d/forum/rahagroup"
+	},
+	"homepage": "https://raha.group",
+	"funding": [
+		{
+			"type" : "paypal",
+			"url" : "https://paypal.com/cgi-bin/webscr?cmd=_donations&business=RZC8HCR5SPGQY&item_name=Contribute+to+Raha%27s+ongoing+maintenance+and+development&currency_code=USD&source=url"
+		}
+	]
+}
